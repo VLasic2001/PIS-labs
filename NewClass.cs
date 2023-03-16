@@ -8,6 +8,10 @@ namespace Aplikacija
 {
     class NewClass
     {
+        private void NewerMethod()
+        {
+            
+        }
         private void NewMethod()
         {
 
