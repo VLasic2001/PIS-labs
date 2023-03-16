@@ -11,6 +11,7 @@ namespace Aplikacija
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
+            Console.WriteLine("Iđe li?");
         }
     }
 }
